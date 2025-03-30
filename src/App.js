@@ -1,5 +1,5 @@
 import "./App.css";
-import socker from "./server";
+import socket from "./server";
 function App() {
   return (
     <div>
